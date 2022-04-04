@@ -28,16 +28,16 @@ Click create an app:
 Enter an App Name and App Description of your choice (they will be displayed to the user on the grant screen), put a tick in the Developer Terms of Service checkbox and finally click on CREATE. Your application is now registered, and you’ll be redirected to the app overview page.
 
 You will get access to:
-<li>
-    <ul>App metrics, such as daily and monthly active users or number of users per country. Note that the metrics are initially empty.
-    </ul>
 <ul>
-    App Status. By default, your app will be in Development Mode with limits on the number of users who can install it, and the number of API requests it can make. Note that you can request an extension of this quota if needed by clicking on the Request Extension link.
-</ul>
-<ul>App settings. </ul>
-<ul> Client ID, the unique identifier of your app. </ul>
-<ul>Client Secret, the key you will use to authorize your Web API or SDK calls. </ul>
+    <li>App metrics, such as daily and monthly active users or number of users per country. Note that the metrics are initially empty.
+    </li>
+<li>
+    App Status. By defalit, your app will be in Development Mode with limits on the number of users who can install it, and the number of API requests it can make. Note that you can request an extension of this quota if needed by clicking on the Request Extension link.
 </li>
+<li>App settings. </li>
+<li> Client ID, the unique identifier of your app. </li>
+<li>Client Secret, the key you will use to authorize your Web API or SDK calls. </li>
+</ul>
 
 
 Example JSON Response:
