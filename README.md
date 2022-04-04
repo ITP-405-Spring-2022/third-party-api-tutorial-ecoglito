@@ -39,6 +39,8 @@ You will get access to:
 <li>Client Secret, the key you will use to authorize your Web API or SDK calls. </li>
 </ul>
 
+<br>
+<br>
 
 Example JSON Response:
 <img src = "https://i.gyazo.com/3469174d908646d82de5cb2c31fd677c.png">
