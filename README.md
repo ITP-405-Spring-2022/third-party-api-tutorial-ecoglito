@@ -28,7 +28,6 @@ Click create an app:
 Enter an App Name and App Description of your choice (they will be displayed to the user on the grant screen), put a tick in the Developer Terms of Service checkbox and finally click on CREATE. Your application is now registered, and you’ll be redirected to the app overview page.
 
 You will get access to:
-```
 <li>
     <ul>App metrics, such as daily and monthly active users or number of users per country. Note that the metrics are initially empty.
     </ul>
@@ -39,7 +38,7 @@ You will get access to:
 <ul> Client ID, the unique identifier of your app. </ul>
 <ul>Client Secret, the key you will use to authorize your Web API or SDK calls. </ul>
 </li>
-```
+
 
 Example JSON Response:
-<img src = "https://gyazo.com/3469174d908646d82de5cb2c31fd677c">
+<img src = "https://i.gyazo.com/3469174d908646d82de5cb2c31fd677c.png">
